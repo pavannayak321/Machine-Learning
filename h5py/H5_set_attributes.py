@@ -28,7 +28,7 @@ print('list of datasets in this files are\n',ls)
 
 data=hdfread.get('dataset1')
 dataset1=np.array(data)
-#printing the shape of the dataset
+#printing the shape of the datasetn
 print('shape of the dataset is ',dataset1.shape)	
 
 
